@@ -1,1 +1,6 @@
 print("hello World")
+print("Hello"+"Alok")
+st=input("What is your name")
+print("hello ! "+st)
+print("length of a string")
+print(len(st))
